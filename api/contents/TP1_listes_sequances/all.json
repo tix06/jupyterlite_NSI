@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-04-30T14:31:41.691705Z",
+      "format": null,
+      "last_modified": "2022-04-30T14:30:43.462915Z",
+      "mimetype": null,
+      "name": "sequence1.ipynb",
+      "path": "TP1_listes_sequances/sequence1.ipynb",
+      "size": 10478,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-04-30T14:31:41.691705Z",
+  "format": "json",
+  "last_modified": "2022-04-30T14:31:41.691705Z",
+  "mimetype": null,
+  "name": "TP1_listes_sequances",
+  "path": "TP1_listes_sequances",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
