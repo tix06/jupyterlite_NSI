@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-04-29T19:44:44.797531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:43:43.861361Z",
+      "mimetype": null,
+      "name": "algo_tri_insertion.ipynb",
+      "path": "TP2_algorithme_tri/algo_tri_insertion.ipynb",
+      "size": 8000,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-29T19:44:44.793531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:44:44.793531Z",
+      "mimetype": null,
+      "name": "datas",
+      "path": "TP2_algorithme_tri/datas",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2022-04-29T19:44:44.797531Z",
+  "format": "json",
+  "last_modified": "2022-04-29T19:44:44.797531Z",
+  "mimetype": null,
+  "name": "TP2_algorithme_tri",
+  "path": "TP2_algorithme_tri",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

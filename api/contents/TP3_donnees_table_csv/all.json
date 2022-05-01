@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-04-29T19:44:44.797531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:43:43.861361Z",
+      "mimetype": null,
+      "name": "exercices_tables_csv_correction1.ipynb",
+      "path": "TP3_donnees_table_csv/exercices_tables_csv_correction1.ipynb",
+      "size": 23000,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-29T19:44:44.797531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:43:43.861361Z",
+      "mimetype": null,
+      "name": "exercices_tables_csv.ipynb",
+      "path": "TP3_donnees_table_csv/exercices_tables_csv.ipynb",
+      "size": 25000,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-29T19:44:44.793531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:43:43.861361Z",
+      "mimetype": "text/csv",
+      "name": "snacks.csv",
+      "path": "TP3_donnees_table_csv/snacks.csv",
+      "size": 1000,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-29T19:44:44.793531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:43:43.861361Z",
+      "mimetype": "text/csv",
+      "name": "stations.csv",
+      "path": "TP3_donnees_table_csv/stations.csv",
+      "size": 3000,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-04-29T19:44:44.797531Z",
+  "format": "json",
+  "last_modified": "2022-04-29T19:44:44.797531Z",
+  "mimetype": null,
+  "name": "TP3_donnees_table_csv",
+  "path": "TP3_donnees_table_csv",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
