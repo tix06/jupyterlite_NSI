@@ -35,6 +35,18 @@
       "size": 3000,
       "type": "file",
       "writable": true
+    },
+   {
+      "content": null,
+      "created": "2022-04-29T19:44:44.793531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:43:43.861361Z",
+      "mimetype": "text/csv",
+      "name": "joueursNBA2020.csv",
+      "path": "datas/joueursNBA2020.csv",
+      "size": 4000,
+      "type": "file",
+      "writable": true
     }
   ],
   "created": "2022-04-29T19:44:44.793531Z",
