@@ -14,6 +14,30 @@
     },
     {
       "content": null,
+      "created": "2022-04-29T19:44:44.797531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:43:43.861361Z",
+      "mimetype": null,
+      "name": "data_analyse_pandas-correction.ipynb",
+      "path": "TP4_data_analyse/data_analyse_pandas-correction.ipynb",
+      "size": 33000,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-29T19:44:44.797531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:43:43.861361Z",
+      "mimetype": null,
+      "name": "AlgoKnn.ipynb",
+      "path": "TP4_data_analyse/AlgoKnn.ipynb",
+      "size": 20000,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
       "created": "2022-04-29T19:44:44.793531Z",
       "format": null,
       "last_modified": "2022-04-29T19:43:43.861361Z",
