@@ -38,6 +38,30 @@
     },
     {
       "content": null,
+      "created": "2022-04-29T19:44:44.797531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:43:43.861361Z",
+      "mimetype": null,
+      "name": "linear_regression.ipynb",
+      "path": "TP4_data_analyse/linear_regression.ipynb",
+      "size": 50000,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-29T19:44:44.797531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:43:43.861361Z",
+      "mimetype": null,
+      "name": "linear_regression_correction.ipynb",
+      "path": "TP4_data_analyse/linear_regression_correction.ipynb",
+      "size": 50000,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
       "created": "2022-04-29T19:44:44.793531Z",
       "format": null,
       "last_modified": "2022-04-29T19:43:43.861361Z",

@@ -11,6 +11,18 @@
       "size": 10000,
       "type": "notebook",
       "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-29T19:44:44.793531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:43:43.861361Z",
+      "mimetype": null,
+      "name": "sequence2.ipynb",
+      "path": "TP1_listes_sequences/sequence2.ipynb",
+      "size": 10000,
+      "type": "notebook",
+      "writable": true
     }
   ],
   "created": "2022-04-29T19:44:44.797531Z",
