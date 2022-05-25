@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-04-29T19:44:44.797531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:43:43.861361Z",
+      "mimetype": null,
+      "name": "rendu_monnaie_NSI1_correction.ipynb",
+      "path": "TP5_optimiser_NSI_1/rendu_monnaie_NSI1_correction.ipynb",
+      "size": 9000,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-04-29T19:44:44.797531Z",
+      "format": null,
+      "last_modified": "2022-04-29T19:43:43.861361Z",
+      "mimetype": null,
+      "name": "rendu_monnaie_NSI1.ipynb",
+      "path": "TP5_optimiser_NSI_1/rendu_monnaie_NSI1.ipynb",
+      "size": 9000,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-04-29T19:44:44.797531Z",
+  "format": "json",
+  "last_modified": "2022-04-29T19:44:44.797531Z",
+  "mimetype": null,
+  "name": "TP5_optimiser_NSI_1",
+  "path": "TP5_optimiser_NSI_1",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
